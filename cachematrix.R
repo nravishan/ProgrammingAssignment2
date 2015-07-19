@@ -1,6 +1,20 @@
+<<<<<<< HEAD
 ## Calcuate and store inverse of matrix in cache
 
 ## This function creates a special "matrix" object that can cache its inverse
+=======
+## Put comments here that give an overall description of what your
+## functions do
+##
+## Write a short comment describing this function
+
+makeCacheMatrix <- function(x = matrix()) {
+
+}
+
+
+## Write a short comment describing this function
+>>>>>>> origin/master
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
